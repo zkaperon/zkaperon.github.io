@@ -1,0 +1,33 @@
+ h1 {
+            text-align:center;
+            font-size:5em;
+            font-family:sans-serif;
+            margin: 200px;
+            text-decoration: line-through;
+            background-color: antiquewhite;
+            border-radius: 20px;
+        }
+        h1:hover {
+            background-color:cornflowerblue
+        }
+        img {
+            
+        }
+        .quote {
+            font-family: cursive;
+        }
+        
+        #leftnav {
+            background-color: saddlebrown;
+            padding: 20px;
+            margin: 20px;
+            border: 5px solid red;
+            border-radius: 10px;
+            border-radius: 500px;
+        }
+        
+        table, td, th {
+            border: 2px solid #000000;
+            border-collapse: collapse;
+            text-align: center;
+        }

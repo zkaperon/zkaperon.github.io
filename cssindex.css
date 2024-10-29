@@ -1,0 +1,151 @@
+
+    img.one {
+        height: 35%;
+        width: 35%;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    h1 {
+        text-align: center;
+        color: #044ca2;
+        font-family: Copperplate;
+    }
+    
+    h3 {
+        text-align:center;
+        background-color: #f05630;
+        border-radius: 5px;
+        margin: 50px;
+        height: 50px;
+        line-height: 50px;
+        width: 300px;
+        margin: auto;
+        font-family: copperplate;
+        color: #044ca2;
+    }
+    
+    h4 {
+        text-align: center;
+        color: #f05630;
+        font-family: copperplate;
+    }
+    
+    div {
+        height:20px;
+    }
+    
+    p.one {
+        text-align:center;
+        font-size:16px;
+        font-family: courier new;
+    }
+    
+    
+    table {
+        place-content: center;
+        margin-left: auto;
+        Margin-right: auto;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        width: 1000px;
+        font-family: copperplate;
+    }
+    
+    img.two {
+        height: 75%;
+        width: 80%;
+        place-content: center;
+    }
+    
+    img.three {
+        height: 75%;
+        width: 75%;
+    }
+    
+    td img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    img.four {
+        height: 15%;
+        width: 15%;
+    }
+    
+    p.two {
+        text-align: left;
+        font-family: courier new;
+    }
+
+    #author {
+        width: 50%
+    }
+
+    #numbered {
+        position:relative;
+        top: 175px;
+       
+    }
+     img.five {
+        height: 30%;
+        width: 30%;
+         position: relative;
+         margin-left: 750px;
+    }
+
+    ul.one {
+        list-style-type: none;
+        margin: 0px;
+        padding: 20px;
+        background-color: #f05630;
+        text-align: center;
+    }
+
+    li.one {
+        display: inline-grid;
+        background-color: coral;
+        font-size: 20px;
+        padding: 20px;
+        padding-left: 107px;
+        padding-right: 108px;
+        font-family: Copperplate;
+        text-align: center;
+    }
+    
+    a {
+        text-decoration: none;
+        text-decoration-color: #044ca2;
+        text-decoration: blink;
+    }
+    
+    a:hover {
+        background-color: #f05630;
+    }
+
+    ul.two {
+        list-style-type: circle;
+        font-family: courier new;
+    }
+
+    ol.one {
+        font-family: courier new;
+        background-color: coral;
+        border: 3px solid black;
+    }
+
+    ul.three {
+        font-family: courier new;
+        list-style-type: none;
+        text-align: center;
+    }
